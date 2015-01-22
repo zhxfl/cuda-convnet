@@ -1,0 +1,1 @@
+python convnet.py --data-path=/home/zhxfl/cuda-workspace/cuda-convnet-read-only/cifar-10-py-colmajor/ --save-path=/home/zhxfl/cuda-workspace/cuda-convnet-read-only/tmp --test-range=6 --train-range=1-5 --layer-def=./example-layers/layers-19pct.cfg --layer-params=./example-layers/layer-params-19pct.cfg --data-provider=cifar --test-freq=13
